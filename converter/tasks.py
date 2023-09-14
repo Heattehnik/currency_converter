@@ -6,6 +6,9 @@ from converter.models import CurrencyRate
 
 @shared_task
 def get_currencies():
+    """
+    Getting the exchange rate of the Central Bank of Russia
+    """
     url = 'https://www.cbr-xml-daily.ru/latest.js'
     response = requests.get(url)
 
