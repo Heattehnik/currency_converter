@@ -13,3 +13,4 @@ requests
 python-dotenv
 celery
 redis
+flake8

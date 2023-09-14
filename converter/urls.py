@@ -9,7 +9,11 @@ router = DefaultRouter()
 router.register(r"api", RatesViewSet, basename="api")
 
 urlpatterns = [
-    path("api/rates/", RatesViewSet.as_view({'get': 'convert_currency'}), name="convert-currency"),  # Маршрут для конвертации валюты
+    path(
+        "api/rates/",
+        RatesViewSet.as_view({"get": "convert_currency"}),
+        name="convert-currency",
+    ),
 ]
 
-urlpatterns += router.urls  # Включаем URL-маршруты, созданные DefaultRouter
+urlpatterns += router.urls
