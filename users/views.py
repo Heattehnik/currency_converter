@@ -1,3 +1,12 @@
-from django.shortcuts import render
+from rest_framework_simplejwt.views import TokenObtainPairView
+from users.serializers import MyTokenObtainPairSerializer
 
-# Create your views here.
+
+class TokenObtain(TokenObtainPairView):
+    serializer_class = MyTokenObtainPairSerializer
+
+
+
+
+
+
