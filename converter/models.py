@@ -7,3 +7,4 @@ class CurrencyRate(models.Model):
 
     def __str__(self):
         return self.currency_code
+
