@@ -1,0 +1,346 @@
+[
+  {
+    "model": "converter.currencyrate",
+    "pk": 48,
+    "fields": {
+      "currency_code": "AUD",
+      "rate": "0.016145385970000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 49,
+    "fields": {
+      "currency_code": "AZN",
+      "rate": "0.017678700000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 50,
+    "fields": {
+      "currency_code": "GBP",
+      "rate": "0.008326000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 51,
+    "fields": {
+      "currency_code": "AMD",
+      "rate": "4.014516000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 52,
+    "fields": {
+      "currency_code": "BYN",
+      "rate": "0.033831788000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 53,
+    "fields": {
+      "currency_code": "BGN",
+      "rate": "0.018950500000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 54,
+    "fields": {
+      "currency_code": "BRL",
+      "rate": "0.051131000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 55,
+    "fields": {
+      "currency_code": "HUF",
+      "rate": "3.725116000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 56,
+    "fields": {
+      "currency_code": "VND",
+      "rate": "249.716571689999995"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 57,
+    "fields": {
+      "currency_code": "HKD",
+      "rate": "0.081259850000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 58,
+    "fields": {
+      "currency_code": "GEL",
+      "rate": "0.027331290000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 59,
+    "fields": {
+      "currency_code": "DKK",
+      "rate": "0.072289000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 60,
+    "fields": {
+      "currency_code": "AED",
+      "rate": "0.038196367500000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 61,
+    "fields": {
+      "currency_code": "USD",
+      "rate": "0.010399237000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 62,
+    "fields": {
+      "currency_code": "EUR",
+      "rate": "0.009687209690000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 63,
+    "fields": {
+      "currency_code": "EGP",
+      "rate": "0.321269657690000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 64,
+    "fields": {
+      "currency_code": "INR",
+      "rate": "0.865036900000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 65,
+    "fields": {
+      "currency_code": "IDR",
+      "rate": "159.805165499999987"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 66,
+    "fields": {
+      "currency_code": "KZT",
+      "rate": "4.825043900000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 67,
+    "fields": {
+      "currency_code": "CAD",
+      "rate": "0.014092000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 68,
+    "fields": {
+      "currency_code": "QAR",
+      "rate": "0.037853265600000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 69,
+    "fields": {
+      "currency_code": "KGS",
+      "rate": "0.922134900000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 70,
+    "fields": {
+      "currency_code": "CNY",
+      "rate": "0.075797000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 71,
+    "fields": {
+      "currency_code": "MDL",
+      "rate": "0.187073900000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 72,
+    "fields": {
+      "currency_code": "NZD",
+      "rate": "0.017530757700000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 73,
+    "fields": {
+      "currency_code": "NOK",
+      "rate": "0.111866700000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 74,
+    "fields": {
+      "currency_code": "PLN",
+      "rate": "0.044968477000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 75,
+    "fields": {
+      "currency_code": "RON",
+      "rate": "0.048178600000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 76,
+    "fields": {
+      "currency_code": "XDR",
+      "rate": "0.007862426000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 77,
+    "fields": {
+      "currency_code": "SGD",
+      "rate": "0.014137770000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 78,
+    "fields": {
+      "currency_code": "TJS",
+      "rate": "0.113987100000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 79,
+    "fields": {
+      "currency_code": "THB",
+      "rate": "0.371302750000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 80,
+    "fields": {
+      "currency_code": "TRY",
+      "rate": "0.280017000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 81,
+    "fields": {
+      "currency_code": "TMT",
+      "rate": "0.036397386670000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 82,
+    "fields": {
+      "currency_code": "UZS",
+      "rate": "126.475974600000001"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 83,
+    "fields": {
+      "currency_code": "UAH",
+      "rate": "0.384088000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 84,
+    "fields": {
+      "currency_code": "CZK",
+      "rate": "0.237424795700000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 85,
+    "fields": {
+      "currency_code": "SEK",
+      "rate": "0.116259300000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 86,
+    "fields": {
+      "currency_code": "CHF",
+      "rate": "0.009290675500000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 87,
+    "fields": {
+      "currency_code": "RSD",
+      "rate": "1.133840800000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 88,
+    "fields": {
+      "currency_code": "ZAR",
+      "rate": "0.196508000000000"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 89,
+    "fields": {
+      "currency_code": "KRW",
+      "rate": "13.786276859999999"
+    }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 90,
+    "fields": {
+      "currency_code": "JPY",
+      "rate": "1.529936000000000"
+    }
+  }
+]
