@@ -9,7 +9,7 @@ class Command(BaseCommand):
 
         user = User.objects.create(
             email='some@mail.pro',
-            phone='5555555',
+            phone='admin',
             is_staff=True,
             is_superuser=True
         )
