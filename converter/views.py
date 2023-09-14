@@ -23,7 +23,7 @@ class RatesViewSet(viewsets.ModelViewSet):
         except CurrencyRate.DoesNotExist:
             return Response({"error": "Invalid currency code"}, status=status.HTTP_400_BAD_REQUEST)
 
-        converted_value = (value * float(to_rate.rate)) / float(from_rate.rate)
+        converted_value = (value * float(from_rate.rate)) / float(to_rate.rate)
 
         response_data = {
             "result": round(converted_value, 2)
