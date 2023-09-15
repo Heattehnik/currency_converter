@@ -28,6 +28,9 @@ services:
   app:
     build: .
     tty: true
+    command: bash -c "python manage.py migrate && \
+                      python manage.py loaddata fixtures/converter.json && \
+                      python manage.py runserver 0.0.0.0:8000"
     ports:
       - '8000:8000'
     volumes:
@@ -46,7 +49,7 @@ services:
   celery_beat:
     build: .
     tty: true
-    command: celery -A config beat -l INFO -S django
+    command: sh -c "sleep 10 && celery -A config beat -l INFO -S django"
     depends_on:
       - redis
       - app

@@ -342,5 +342,13 @@
       "currency_code": "JPY",
       "rate": "1.529936000000000"
     }
+  },
+  {
+    "model": "converter.currencyrate",
+    "pk": 91,
+    "fields": {
+      "currency_code": "RUB",
+      "rate": "1"
+    }
   }
 ]
